@@ -1,4 +1,13 @@
-# MIE Chatbot API
+---
+title: MIE Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
 
-This Space hosts a FastAPI backend deployed with Docker.  
-It exposes a `/chat` endpoint that accepts user queries and returns LLM-based responses.
+# Chatbot-BE
+
+Your project description and other information goes here...
